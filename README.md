@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration</h2>
 
-**Part 3(Post Installation Setup)**
+**Part 3 (Post Installation Setup)**
 
 Configure Roles
 - Admin Panel -> Agents -> Roles
