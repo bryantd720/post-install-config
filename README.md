@@ -51,5 +51,4 @@ Configure Help Topics
 - Admin Panel -> Manage -> Help Topics<br>Ex: Personal Computer Issues</br>
 
 
-
 <h2>Example Screenshots</h2>
