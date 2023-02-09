@@ -52,3 +52,31 @@ Configure Help Topics
 
 
 <h2>Example Screenshots</h2>
+
+<p>
+<img src="https://i.imgur.com/aEr2CXl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring Roles as an Admin using the ticketing system.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/89MEr3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring Agents (help desk professionals!) using the ticketing system.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/Fj2pEFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configuring Users (customers!) using the ticketing system.
+</p>
+<br />
+
+
