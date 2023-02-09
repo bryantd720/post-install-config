@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket using Microsoft Azure.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -22,33 +22,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 Configure Roles
 - Admin Panel -> Agents -> Roles
-- Supreme Admin
+- "Supreme Admin"
 
 Configure Departments
 - Admin Panel -> Agents -> Departments
-- System Administrators
+- "System Administrators"
 
 Configure Teams
 Admin Panel -> Agents -> Teams
-- Level I Support
-- Level II Support
+- "Level I Support"
+- "Level II Support"
 
 Allow anyone to create tickets
 - Admin Panel -> Settings -> User Settings
 - Registration Required: Require registration and login to create tickets 
 
 Configure Agents (Workers)
-- Admin Panel -> Agents -> Add New<br>Ex: Davvid</br>
+- Admin Panel -> Agents -> Add New<br>Ex: "Davvid"</br>
 
 Configure Users (Customers)
-- Agent Panel -> Users -> Add New<br>Ex: Esther</br>
+- Agent Panel -> Users -> Add New<br>Ex: "Esther"</br>
 
-Configure SLA
-- Admin Panel -> Manage -> SLA<br>Ex: SEV-A (1 hour, 24/7)</br>
+Configure SLA (Service-Level Agreements)
+- Admin Panel -> Manage -> SLA<br>Ex: "SEV-A (1 hour, 24/7)"</br>
 
 
 Configure Help Topics
-- Admin Panel -> Manage -> Help Topics<br>Ex: Personal Computer Issues</br>
+- Admin Panel -> Manage -> Help Topics<br>Ex: "Personal Computer Issues"</br>
 
 
 <h2>Example Screenshots</h2>
@@ -66,7 +66,7 @@ Configuring Roles as an Admin using the ticketing system.
 <img src="https://i.imgur.com/89MEr3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring Agents (help desk professionals!) using the ticketing system.
+Configuring Agents (Help Desk Professionals!) using the ticketing system.
 </p>
 <br />
 
@@ -75,7 +75,7 @@ Configuring Agents (help desk professionals!) using the ticketing system.
 <img src="https://i.imgur.com/Fj2pEFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring Users (customers!) using the ticketing system.
+Configuring Users (Customers!) using the ticketing system.
 </p>
 <br />
 
